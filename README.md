@@ -28,8 +28,10 @@ A responsive, elegant, and theme-switchable events website designed for showcasi
 ```
 the-prarambh-events/
 ├── index.html
-├── README.md
+├── prarambh.css
+├── prarambh.js
 └── (Assets hosted externally)
+README.md
 ```
 
 ---
